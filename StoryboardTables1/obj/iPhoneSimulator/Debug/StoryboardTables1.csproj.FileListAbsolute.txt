@@ -1,0 +1,72 @@
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/StoryboardTables1.exe
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/StoryboardTables1.pdb
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.csprojResolveAssemblyReference.cache
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.csproj.CoreCompileInputs.cache
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.exe
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.pdb
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.dll
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.dll
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.pdb
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.xml
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.xml
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/jiangyongming/Desktop/StoryboardTable/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.xml
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/StoryboardTables1.exe
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/StoryboardTables1.pdb
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.dll
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.dll
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.pdb
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.xml
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.xml
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.xml
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.csprojResolveAssemblyReference.cache
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.csproj.CoreCompileInputs.cache
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.exe
+/Users/owen/Downloads/StoryboardTable 5/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.pdb
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/StoryboardTables1.exe
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/StoryboardTables1.pdb
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.pdb
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.Abstractions.xml
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/Plugin.Messaging.xml
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.pdb
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/SQLite-net.xml
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.csprojResolveAssemblyReference.cache
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.csproj.CoreCompileInputs.cache
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.exe
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/obj/iPhoneSimulator/Debug/StoryboardTables1.pdb

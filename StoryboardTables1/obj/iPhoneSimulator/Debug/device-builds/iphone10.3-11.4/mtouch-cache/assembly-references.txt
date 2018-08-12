@@ -1,0 +1,12 @@
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/bin/iPhoneSimulator/Debug/StoryboardTables1.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/packages/Xam.Plugins.Messaging.5.2.0/lib/Xamarin.iOS10/Plugin.Messaging.Abstractions.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mono/Xamarin.iOS/Facades/System.Collections.dll
+/Users/owen/Desktop/Junda/StoryboardTable 5的副本 2/StoryboardTables1/packages/Xam.Plugins.Messaging.5.2.0/lib/Xamarin.iOS10/Plugin.Messaging.dll
